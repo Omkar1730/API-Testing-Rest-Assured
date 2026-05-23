@@ -1,0 +1,25 @@
+# Maven target folder
+target/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IntelliJ
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Build files
+*.class
+
+# Dependency directories
+node_modules/
+
+# Environment files (if added later)
+.env
